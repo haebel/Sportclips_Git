@@ -1,0 +1,41 @@
+#bodyLogin {
+    text-align: center;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#bodyIndex {
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 5px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#inputMiddle {
+    margin: auto;
+    max-width: 500px;
+    margin-bottom: 10px;
+}
+
+#inputLeft {
+    max-width: 500px;
+    margin-bottom: 10px;
+}
+
+#sampleMovie {
+    max-width: 100%;
+    max-height: 100%;
+    background-color: #2d2d2d;
+}
